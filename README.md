@@ -1,5 +1,5 @@
 # 💫 About Me:
-📝I'm currently learning advanced algorithms and Cybersecurity <br>👷🏽I'm currently working on local LLM solutions<br>🤝 I'm looking for help with SWE guidance <br>💪🏽I'm looking to collaborate on innovative projects <br>🦆Ask me about RUNIC
+📝I'm currently learning advanced algorithms and Cybersecurity <br>👷🏽I'm currently working on local LLM solutions and starting my Homelab!<br>🤝 I'm looking for help with SWE and Infrastructure guidance <br>💪🏽I'm looking to collaborate on innovative projects <br>🦆Ask me about RUNIC
 
 
 ## 🌐 Socials:
